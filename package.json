@@ -1,0 +1,19 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharath-Shet1999/Backend_Project.git"
+  },
+  "author": "Bharath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharath-Shet1999/Backend_Project/issues"
+  },
+  "homepage": "https://github.com/Bharath-Shet1999/Backend_Project#readme"
+}
