@@ -14,5 +14,6 @@ module.exports = {
         indent: ['error', 4],
         'max-len': ['error', { code: 320 }],
         semi: ['error', 'never'],
+        quotes: ['error', 'double','single'],
     },
 }
